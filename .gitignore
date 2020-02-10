@@ -5,6 +5,7 @@
 
 #virtualenv
 env
+env/
 
 # Packages
 *.egg
